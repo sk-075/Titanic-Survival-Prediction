@@ -1,4 +1,5 @@
 🚢 Titanic Survival Prediction Using Machine Learning
+
 This project focuses on predicting the survival of passengers aboard the Titanic using various machine learning algorithms. It leverages historical passenger data, including features such as age, gender, passenger class, fare, number of siblings/spouses aboard, number of parents/children aboard, and more to train predictive models.
 
 The dataset used is the famous Titanic dataset provided by Kaggle, which has become a benchmark for learning classification techniques in machine learning. After thorough data cleaning and preprocessing (done beforehand), the data is split into training and testing sets to ensure a reliable evaluation of model performance.
